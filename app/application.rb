@@ -21,5 +21,4 @@ class Application
 
     end
 
-
 end
